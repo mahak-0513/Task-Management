@@ -1,0 +1,33 @@
+{
+  "boards": [
+    {
+      "name": "Task Management",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Ready",
+          "tasks": [ 
+          ]
+        },
+        {
+          "name": "In progress",
+          "tasks": [
+            
+          ]
+        },
+        {
+          "name": "Testing",
+          "tasks": [
+            
+          ]
+        },
+        {
+          "name": "Done",
+          "tasks": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}
